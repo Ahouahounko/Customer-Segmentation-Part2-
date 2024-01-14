@@ -22,7 +22,7 @@ Some visualization of clusters through PCA(2D/3D):
 
 Some visualization of clusters through t-SNE(2D): 
 
-![t-SNE 2D](images/tsne_2d.png)
+![t-SNE 2D](tsne_2d.png)
 
 
 ## Video Demo
